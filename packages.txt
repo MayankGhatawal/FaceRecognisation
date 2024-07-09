@@ -4,3 +4,5 @@ libboost-all-dev
 freeglut3-dev
 cmake
 libopenblas-dev
+freeglut3-dev
+libgtk2.0-dev
