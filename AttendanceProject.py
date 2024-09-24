@@ -41,9 +41,9 @@ def markAttendance(name):
 
 
 encodeListKnown = findEncodings(images)
-print('Encoding Complete
+print('Encoding Complete')
 
-cap = cv2.VideoCapture(0
+cap = cv2.VideoCapture(0)
 
 while True:
     success, img = cap.read()
