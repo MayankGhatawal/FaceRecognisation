@@ -5,7 +5,7 @@ import os
 from markAttendance import markAttendance
 from datetime import datetime
 
-path = 'Images_Attendance';
+path = 'Images_Attendance'
 images = []
 classNames = []
 myList = os.listdir(path)
