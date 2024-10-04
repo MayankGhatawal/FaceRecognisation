@@ -6,7 +6,7 @@ from markAttendance import markAttendance
 from datetime import datetime
 
 path = 'Images_Attendance';
-images = []
+images = [];
 classNames = []
 myList = os.listdir(path)
 print(myList)
