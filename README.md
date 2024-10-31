@@ -2,7 +2,6 @@
 
 This project is a Face Recognition Attendance System built using Streamlit and OpenCV. The application captures images from a webcam, recognizes faces, and marks attendance in real-time.
 
-
 ## Table of Contents
 
 - [Features](#features)
